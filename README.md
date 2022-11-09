@@ -17,8 +17,6 @@
 | IDEAs:                       | ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge)  ![EclipsIDE](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)                                                                                                                                                        |
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Andrey-Ruch" alt="Andrey-Ruch" />
-
 <!--
 **Andrey-Ruch/Andrey-Ruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
