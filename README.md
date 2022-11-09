@@ -19,9 +19,9 @@
 ### 🏅 GitHub States:
 
 <p align="center"><br>
-<a href="https://github.com/Andrey-Ruch">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrey-Ruch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andrey-Ruch&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Vl4d1s">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vl4d1s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vl4d1s&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
