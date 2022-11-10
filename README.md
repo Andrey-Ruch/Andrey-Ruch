@@ -10,7 +10,7 @@
 
 | Property                     | Stack                                                                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programming Languages        | ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=C&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)                                                                                                                   |
+| Programming Languages        | ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=C&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)                                                                                                                  |
 | Frontend Development         | ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge)  ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)                                                                             |
 | Backend Developing           | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)                                                                         |
 | Databases                    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge)                                                                           |
@@ -19,9 +19,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Andrey-Ruch">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrey-Ruch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andrey-Ruch&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
