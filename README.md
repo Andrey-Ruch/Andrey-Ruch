@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 ---
-### 🖥️ Languages and Tools:
+### 🖥️ Tech Stack:
 
 | Property                     | Stack                                                                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,9 +16,14 @@
 | Databases                    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge)                                                                           |
 | IDEAs:                       | ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge)  ![EclipsIDE](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)                                                                                                                 |
 ---
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?        username=Andrey-Ruch&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey-Ruch's Github Stats">
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **Andrey-Ruch/Andrey-Ruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
