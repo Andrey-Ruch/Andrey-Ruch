@@ -15,14 +15,6 @@
 | Backend Developing           | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-5C2D91?style=for-the-badge&logo=flask&logoColor=white)                                                                         |
 | Databases                    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge)                                                                           |
 | IDEAs:                       | ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge)  ![EclipsIDE](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)                                                                                                                 |
----
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Andrey-Ruch">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrey-Ruch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 <!--
 **Andrey-Ruch/Andrey-Ruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
